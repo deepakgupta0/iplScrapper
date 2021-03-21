@@ -1,0 +1,145 @@
+[
+    {
+        "Runs": "3",
+        "Balls": "5",
+        "Fours": "0",
+        "Sixes": "0",
+        "StrikeRate": "60.00",
+        "Opponent": "DELHI CAPITALS",
+        "Venue": "DUBAI",
+        "MatchDate": "NOV 10 2020",
+        "Result": "MUM INDIANS WON BY 5 WICKETS (WITH 8 BALLS REMAINING)"
+    },
+    {
+        "Runs": "37",
+        "Balls": "14",
+        "Fours": "0",
+        "Sixes": "5",
+        "StrikeRate": "264.29",
+        "Opponent": "DELHI CAPITALS",
+        "Venue": "DUBAI",
+        "MatchDate": "NOV 5 2020",
+        "Result": "MUM INDIANS WON BY 57 RUNS"
+    },
+    {
+        "Runs": "60",
+        "Balls": "21",
+        "Fours": "2",
+        "Sixes": "7",
+        "StrikeRate": "285.71",
+        "Opponent": "RAJASTHAN ROYALS",
+        "Venue": "ABU DHABI",
+        "MatchDate": "OCT 25 2020",
+        "Result": "ROYALS WON BY 8 WICKETS (WITH 10 BALLS REMAINING)"
+    },
+    {
+        "Runs": "30",
+        "Balls": "19",
+        "Fours": "2",
+        "Sixes": "1",
+        "StrikeRate": "157.89",
+        "Opponent": "RAJASTHAN ROYALS",
+        "Venue": "ABU DHABI",
+        "MatchDate": "OCT 6 2020",
+        "Result": "MUM INDIANS WON BY 57 RUNS"
+    },
+    {
+        "Runs": "21",
+        "Balls": "11",
+        "Fours": "3",
+        "Sixes": "1",
+        "StrikeRate": "190.91",
+        "Opponent": "KOLKATA KNIGHT RIDERS",
+        "Venue": "ABU DHABI",
+        "MatchDate": "OCT 16 2020",
+        "Result": "MUM INDIANS WON BY 8 WICKETS (WITH 19 BALLS REMAINING)"
+    },
+    {
+        "Runs": "18",
+        "Balls": "13",
+        "Fours": "2",
+        "Sixes": "1",
+        "StrikeRate": "138.46",
+        "Opponent": "KOLKATA KNIGHT RIDERS",
+        "Venue": "ABU DHABI",
+        "MatchDate": "SEP 23 2020",
+        "Result": "MUM INDIANS WON BY 49 RUNS"
+    },
+    {
+        "Runs": "15",
+        "Balls": "13",
+        "Fours": "0",
+        "Sixes": "1",
+        "StrikeRate": "115.38",
+        "Opponent": "ROYAL CHALLENGERS BANGALORE",
+        "Venue": "DUBAI",
+        "MatchDate": "SEP 28 2020",
+        "Result": "MATCH TIED (RCB WON THE ONE-OVER ELIMINATOR)"
+    },
+    {
+        "Runs": "14",
+        "Balls": "10",
+        "Fours": "0",
+        "Sixes": "2",
+        "StrikeRate": "140.00",
+        "Opponent": "CHENNAI SUPER KINGS",
+        "Venue": "ABU DHABI",
+        "MatchDate": "SEP 19 2020",
+        "Result": "SUPER KINGS WON BY 5 WICKETS (WITH 4 BALLS REMAINING)"
+    },
+    {
+        "Runs": "17",
+        "Balls": "15",
+        "Fours": "0",
+        "Sixes": "2",
+        "StrikeRate": "113.33",
+        "Opponent": "ROYAL CHALLENGERS BANGALORE",
+        "Venue": "ABU DHABI",
+        "MatchDate": "OCT 28 2020",
+        "Result": "MUM INDIANS WON BY 5 WICKETS (WITH 5 BALLS REMAINING)"
+    },
+    {
+        "Runs": "8",
+        "Balls": "4",
+        "Fours": "0",
+        "Sixes": "1",
+        "StrikeRate": "200.00",
+        "Opponent": "KINGS XI PUNJAB",
+        "Venue": "DUBAI",
+        "MatchDate": "OCT 18 2020",
+        "Result": "MATCH TIED (KINGS XI WON THE ONE-OVER ELIMINATOR)"
+    },
+    {
+        "Runs": "28",
+        "Balls": "19",
+        "Fours": "2",
+        "Sixes": "2",
+        "StrikeRate": "147.37",
+        "Opponent": "SUNRISERS HYDERABAD",
+        "Venue": "SHARJAH",
+        "MatchDate": "OCT 4 2020",
+        "Result": "MUM INDIANS WON BY 34 RUNS"
+    },
+    {
+        "Runs": "30",
+        "Balls": "11",
+        "Fours": "3",
+        "Sixes": "2",
+        "StrikeRate": "272.73",
+        "Opponent": "KINGS XI PUNJAB",
+        "Venue": "ABU DHABI",
+        "MatchDate": "OCT 1 2020",
+        "Result": "MUM INDIANS WON BY 48 RUNS"
+    },
+    {
+        "Runs": "0",
+        "Balls": "2",
+        "Fours": "0",
+        "Sixes": "0",
+        "StrikeRate": "0.00",
+        "Opponent": "DELHI CAPITALS",
+        "Venue": "ABU DHABI",
+        "MatchDate": "OCT 11 2020",
+        "Result": "MUM INDIANS WON BY 5 WICKETS (WITH 2 BALLS REMAINING)"
+    }
+]
